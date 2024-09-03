@@ -31,7 +31,7 @@ Please make sure `node` is in your environment path before running, as it is req
 Clone the repository.
 
 ```bash
-git clone https://github.com/reelghost/TiktokAutoUploader.git
+git clone https://github.com/reelghost/TiktokUploader.git
 ```
 
 Install requirements for package.
